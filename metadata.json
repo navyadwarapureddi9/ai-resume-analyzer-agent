@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer - n8n AI Workflow",
+  "description": "Instant, automated AI-powered resume and CV analysis powered by an n8n cloud automation workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
